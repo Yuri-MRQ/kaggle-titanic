@@ -8,7 +8,7 @@ Fiz dois notebooks da seguinte forma:
 
 Pelo notebook titanic_explore_data analisei as informações dos arquivos test.csv e train.csv, optei por tratar os NaN values com a média do db.
 
-Para o classifier usei Random Florest Classifier utilizando as seguintes colunas: Pclass,	Fare,	C,	Q,	S,	female e	male. As colunas C, Q e S correspondem a one hot enconding da coluna Embarke e as colunas female e male correspondem ao mesmo da coluna sex. 
+Para o classifier usei Random Forest Classifier utilizando as seguintes colunas: Pclass,	Fare,	C,	Q,	S,	female e	male. As colunas C, Q e S correspondem a one hot enconding da coluna Embarke e as colunas female e male correspondem ao mesmo da coluna sex. 
 
 Podemos considerar essa abordagem a mais tradicional, olhando alguns notebooks no Kaggle observamos que diversos competidores utilizaram essa forma para tratar os dados.
 
