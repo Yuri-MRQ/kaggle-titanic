@@ -12,7 +12,7 @@ Para o classifier usei Random Florest Classifier utilizando as seguintes colunas
 
 Podemos considerar essa abordagem a mais tradicional, olhando alguns notebooks no Kaggle observamos que diversos competidores utilizaram essa forma para tratar os dados.
 
-Obtive o public score de 0.76555, nada expressivo possuindo margem para melhorar o modelo e assim a pontuaçãp.
+Obtive o public score de 0.76555, nada expressivo possuindo margem para melhorar o modelo e assim a pontuação.
 
 Já o notebook exploring_name_titanic fui por uma abordagem totalmente diferente, utilizei apenas os nomes para tentar prever se a pessoa morre ou vive ao naufrágio, algo interessante sobre os nomes é que conseguimos tirar deles o Sexo, classe Social, títulos e ate mesmo aproximar a data de nascimento (É natural ter anos em que mais pessoas são registradas com um nome, Enzo por exemplo) além é claro de dizer se há algum grau de parentesco das pessoas a bordo.
 
